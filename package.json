@@ -1,0 +1,20 @@
+{
+  "name": "material-md",
+  "version": "1.0.0",
+  "description": "记录常用模板&组件&页面",
+  "main": "index.js",
+  "author": "刘世杰",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^0.22.4"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.2",
+    "sass": "^1.52.1"
+  }
+}
